@@ -238,6 +238,23 @@
         ],
         "type": "Point"
       }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "category": "generic",
+        "title": "CARfix Beteng",
+        "addr": "Jl. Kolonel Sugiyono No. 34, Brontokusuman, Kec. Mergangsan, Kota, Brontokusuman, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "addr:zip": "55153",
+        "gmaps": "https://maps.app.goo.gl/x5hDYkiGeBCPgXK76"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37113617171359,
+          -7.81415405584517
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
