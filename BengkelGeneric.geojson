@@ -255,6 +255,23 @@
         ],
         "type": "Point"
       }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "category": "generic",
+        "title": "CARfix Purwokerto",
+        "addr": "Jl. Jend. Sudirman No.85, RT.001/RW.007, Pasiraja Lor, Bantarsoka, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah",
+        "addr:zip": "53134",
+        "gmaps": "https://maps.app.goo.gl/Uk1FQ8CgfHvjcd836"
+      },
+      "geometry": {
+        "coordinates": [
+         109.21663577670694,
+          -7.422571357658168
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
